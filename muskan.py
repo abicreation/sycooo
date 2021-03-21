@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding=utf-8
-# Originally Written By:Muhammad Hamza
+# Originally Written By: SHADOW HACKER
 # Source : Python2"
 # Donot Recode It. 
 
@@ -58,18 +58,38 @@ def hopss(z):
 		time.sleep(0.1)
 ##### LOGO #####
 banner = """
-\033[1;92m___  ____   _ _____ _   __  ___   _   _ 
-\033[1;92m|  \/  | | | /  ___| | / / / _ \ | \ | |
-\033[1;92m| .  . | | | \ `--.| |/ / / /_\ \|  \| |
-\033[1;92m| |\/| | | | |`--. \    \ |  _  || . ` |
-\033[1;92m| |  | | |_| /\__/ / |\  \| | | || |\  |
-\033[1;92m\_|  |_/\___/\____/\_| \_/\_| |_/\_| \_/                                               
+\033[1;92m
+
+░██████╗██╗░░░██╗░█████╗░░█████╗░
+
+██╔════╝╚██╗░██╔╝██╔══██╗██╔══██╗
+
+╚█████╗░░╚████╔╝░██║░░╚═╝██║░░██║
+
+░╚═══██╗░░╚██╔╝░░██║░░██╗██║░░██║
+
+██████╔╝░░░██║░░░╚█████╔╝╚█████╔╝
+
+╚═════╝░░░░╚═╝░░░░╚════╝░░╚════╝░
+
+████████╗██████╗░██╗░█████╗░██╗░░██╗███████╗
+
+╚══██╔══╝██╔══██╗██║██╔══██╗██║░██╔╝██╔════╝
+
+░░░██║░░░██████╔╝██║██║░░╚═╝█████═╝░█████╗░░
+
+░░░██║░░░██╔══██╗██║██║░░██╗██╔═██╗░██╔══╝░░
+
+░░░██║░░░██║░░██║██║╚█████╔╝██║░╚██╗███████╗
+
+░░░╚═╝░░░╚═╝░░╚═╝╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝
+\033[1;92m|                                               
 \033[1;97m-----------------------------------------------
-\033[1;91m➣ OWNER   : JAM SHAHRUKH X MUSKAN NOOR
-\033[1;91m➣ Github  : https://github.com/muskanckg
-\033[1;91m➣ GANG    : CRAZY KING GANG
-\033[1;91m➣ Youtube : JAM SHAHRUKH TECHNICAL
-\033[1;91m➣ WhatsApp: +923053176060
+\033[1;91m➣ OWNER   : Syco Mano X SHADOW
+\033[1;91m➣ Github  : https://github.com/abicreation
+\033[1;91m➣ GANG    : Alone Coder
+\033[1;91m➣ Youtube : MASTER in ethical hacking
+\033[1;91m➣ WhatsApp: no 
 \033[1;97m-----------------------------------------------"""
 # titik #
 def tik():
@@ -138,7 +158,7 @@ def men():
 		crack()
 	elif rana =="2":
 	    os.system('clear')
-	    hamza('[!] Please Wait While Page Is Loding.')
+	    syco('[!] Please Wait While Page Is Loding.')
 	    hopss('CKG-10%...')
 	    hopss('CKG-20%...')
 	    hopss('CKG-50%...')
@@ -154,7 +174,7 @@ def men():
 	elif rana =="5":
 		os.system('clear')
 		print banner
-		hamza('[✓] Please Wait While Tool Is Updating')
+		('[✓] Please Wait While Tool Is Updating')
 		os.system('git pull origin master')
 		hamza('[✓] Tool Has Been Update Successfully')
 		hamza('[✓] Please Wait While Update Is Setting Up On Your Mobile Phone')
@@ -368,7 +388,7 @@ def crack_menu():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;97m----------------------------------------------"
-	hamza('[✓] Process Has Been Completed.')
+	('[✓] Process Has Been Completed.')
 	hamza('\033[1;97m[✓] Checkpoint IDS Has Been Saved.')
 	xx = str(len(oks))
 	xxx = str(len(checkpoint))
